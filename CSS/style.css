@@ -81,6 +81,8 @@ main{
     background-color:white;
     margin:10px;
     display:flex;
+    margin-bottom:20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 
 main .fas{
@@ -96,8 +98,20 @@ main hr{
     background-color:#9c9c9c;
 }
 
+main .far{
+    width:126.2px;
+    font-size:50px;
+    margin-top:20px;
+    text-align:center;
+}
+
+.interet{
+    width:82%;
+}
+
 .logo_interet{
     display:flex;
-    justify-content:space-between;
+    justify-content: space-between;
     color:#ff7610;
+    padding-bottom:20px;
 }
